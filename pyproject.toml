@@ -1,0 +1,16 @@
+[project]
+name = "mulit-constrained-qaoa-data"
+version = "0.1.0"
+description = "Data for Multi-Constrained QAOA Paper"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "dimod>=0.12.20",
+    "gurobipy>=12.0.1",
+    "jupyterlab>=4.3.6",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.4",
+    "pandas>=2.2.3",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.4",
+]
