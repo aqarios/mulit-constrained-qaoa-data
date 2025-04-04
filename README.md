@@ -1,5 +1,5 @@
 # Efficient QAOA Architecture for Multi-Constrained Optimization
-This repo contains the results and evaluation code to reproduce the plots in the paper.
+This repo contains the data, results and evaluation code to reproduce the plots in the paper.
 As of right now, the code for simulation can not be provided. Please reach out to the
 authors for more information.
 
@@ -8,7 +8,7 @@ authors for more information.
 To install and use, the authors recommend the [uv package manager](https://docs.astral.sh/uv/).
 Clone the repo and install uv in the system. Then run
 ```
-uv pip install -e
+uv pip install -e .
 ```
 This should install all dependencies including development tools like jupyter lab
 
